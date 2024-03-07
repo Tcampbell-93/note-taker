@@ -3,7 +3,7 @@ const path = require('path');
 const api = require('./routes/index');
 
 // sets up port to be used if none choosen use 3001
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 // setting up middleware
 const app = express();
