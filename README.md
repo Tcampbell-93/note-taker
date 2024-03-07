@@ -14,4 +14,4 @@ Google.com
 canvas xpert learning assistant
 
 ## Demo
-I will be hosting this app on Heroku for demonstration purposes. Click this link to see the app live 
+I will be hosting this app on Heroku for demonstration purposes. Click this link to see the app live https://stormy-taiga-56891-030fb7a44038.herokuapp.com/
